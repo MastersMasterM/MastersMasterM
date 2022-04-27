@@ -13,7 +13,7 @@ A hardworking student who loves to learn new things every day.
 
 ### 📫 How to reach me?
 - [LinkedIn](https://www.linkedin.com/in/mahdi-mohammadi-0330691b8/) 
-- E_Mail:(unknownsoldierm @ gmail.com) 
+- [E_Mail](mo.mahdi1379@gmail.com) 
 
 I am looking forward to absorb knowledge🧠 and gain experience 🏭.
 
