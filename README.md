@@ -4,7 +4,7 @@ My Name is _Mahdi_.I am currently a student at [Tehran Polytechnic](https://aut.
 
 ### 🌱 What do I do and What have I done? 
 
-- Intern data scientist at Didar
+- Intern Data Scientist at Didar
 - Teaching Assistant of Probablity Theory
 - Teaching Assistant of Engineering Statistics
 - Taking Part in Kaggle Competition
