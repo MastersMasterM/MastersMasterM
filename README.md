@@ -9,13 +9,6 @@ My Name is _Mahdi_.I am currently a student at [Tehran Polytechnic](https://aut.
 - Teaching Assistant of Engineering Statistics
 - Taking Part in Kaggle Competition
 
-### ⚡ One line that describes me best? 
-A hardworking student who loves to learn new things every day.
-
-### 📫 How to reach me?
-- [LinkedIn](https://www.linkedin.com/in/mahdi-mohammadi-0330691b8/) 
-- [E-Mail](mailto:mo.mahdi1379@gmail.com) 
-
 I love learning new things and I am looking forward to absorb knowledge🧠 and gain experience 🏭.
 
 
