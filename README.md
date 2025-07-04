@@ -1,7 +1,19 @@
-# Hi!,Welcome To My Repository  👋
+## 👋 Hi there, welcome to my repository!
 
-My Name is _Mahdi_.I am currently a student at [Tehran Polytechnic](https://aut.ac.ir/en).I study Industrial Engineering and Computer Science as my minor.I'm interested in datascience field and have some basic experience in Machine Learning and Deep Learning. I use Python, R and C/C++ in my projects. I love learning new things and I am looking forward to absorb knowledge🧠 and gain experience 🏭.
+I'm **Mahdi Mohammadi**, a Junior AI Engineer at Golrang System and an M.Sc. student in **Industrial Engineering – Systems Modeling and Data Analysis** at [Tehran Polytechnic](https://aut.ac.ir/en). I also hold a B.Sc. in Industrial Engineering and a minor in Computer Science.
 
+🔬 I'm passionate about **data science, machine learning**, and building intelligent systems. I’ve worked on real-world projects involving:
+- **LLM-based document intelligence**
+- **Data-driven quality metrics for national standards**
+
+🛠 I work mainly with **Python**, but also have experience with **C++**, **R**, **Julia** and tools like:
+- **PyTorch, TensorFlow, Scikit-learn**
+- **Docker, Django, FastAPI**
+- **PostgreSQL, MongoDB, Qdrant**
+
+📚 I'm always learning — especially in areas like **NLP**, **optimization**, and **AI system design** — and I enjoy applying what I learn to practical challenges.
+
+Feel free to explore my projects, connect on [LinkedIn](https://linkedin.com/in/mo-mahdi1379), or reach out. Let's build something meaningful together!
 
 <!---
 MastersMasterM/MastersMasterM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
